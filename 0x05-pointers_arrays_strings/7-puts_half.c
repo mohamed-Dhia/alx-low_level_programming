@@ -3,7 +3,8 @@
 
 /**
  * puts_half - Entry point
- * Description: 'if you need a description to get this, you really need to reconsider your decisions'
+ * Description: 'if you need a description to get this,
+ * you really need to reconsider your decisions'
  * @str: sasadaas
  * Return: Always 0 (Success)
  */

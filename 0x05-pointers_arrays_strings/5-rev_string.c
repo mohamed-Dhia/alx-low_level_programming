@@ -3,7 +3,8 @@
 
 /**
  * rev_string- Entry point
- * Description: 'if you need a description to get this, you really need to reconsider your decisions'
+ * Description: 'if you need a description to get this,
+ * you really need to reconsider your decisions'
  * @s: ssadas
  * Return: Always 0 (Success)
  */

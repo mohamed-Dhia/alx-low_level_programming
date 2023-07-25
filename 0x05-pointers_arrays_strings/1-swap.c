@@ -2,7 +2,8 @@
 
 /**
  * swap_int- Entry point
- * Description: 'if you need a description to get this, you really need to reconsider your decisions'
+ * Description: 'if you need a description to get this,
+ * you really need to reconsider your decisions'
  * @a: stuuuf
  * @b: moar stuff
  * Return: Always 0 (Success)

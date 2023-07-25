@@ -4,7 +4,8 @@
 
 /**
  * print_rev- Entry point
- * Description: 'if you need a description to get this, you really need to reconsider your decisions'
+ * Description: 'if you need a description to get this,
+ * you really need to reconsider your decisions'
  * @s: stuff
  * Return: Always 0 (Success)
  */
