@@ -1,13 +1,16 @@
 #include "main.h"
 #include <stdio.h>
 
+/**
+ * main - Entry point
+ * Description: 'if you need a description to get this, you really need to reconsider your decisions'
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-	char s1[98];
-	char *ptr;
+	char *str;
 
-	ptr = _strcpy(s1, "First, solve the problem. Then, write the code\n");
-	printf("%s", s1);
-	printf("%s", ptr);
+	str = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+	puts_half(str);
 	return (0);
 }
